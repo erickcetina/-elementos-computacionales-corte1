@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# Script mejorado con validacion de directorios
 # organizador.sh
 # Organiza los archivos .txt de un directorio: los copia a una carpeta de
 # backup con fecha, renombrándolos, y genera un resumen.log con el listado
